@@ -1,0 +1,15 @@
+{
+  "id": null,
+  "name": "skill-quality-optimizer-cowork",
+  "display_name": "技能质量优化器（CRAFT×Darwin融合版）",
+  "description": "技能评分和skill质量优化工具。10维100分评分体系，覆盖规范性、可靠性、适用性、有效性、可信任度。支持技能审查、skill打分、上架前检查、评分提升。内置安全扫描、中性词替换、冲突解耦、自主优化循环。仅支持已有技能的质量优化。",
+  "version": "1.3.0",
+  "category": "tools",
+  "url": null,
+  "status": "local",
+  "installed_at": 1782979294688,
+  "updated_at": 1782979294688,
+  "creator": "hzyangcheng",
+  "last_upload_hash": null,
+  "last_upload_time": null
+}
